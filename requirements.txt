@@ -1,0 +1,5 @@
+mariadb==1.1.10
+openai==1.28.1
+pandas==1.5.3
+python-dotenv==1.0.1
+tiktoken==0.5.2
